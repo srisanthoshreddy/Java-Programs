@@ -15,7 +15,7 @@ first - my first java program.
 flag - prints a sequence of stars that forms a flag formation.
 leapyear - checks if the year is a leap year or not.
 palindrome - checks if the number is a palindrome or not(if the reverse of the number is equal to the number)
-power - finds the value of X raised to y.
+power - finds the value of X raised to Y.
 prime - prints prime numbers from 3-100.
 squares - finds the squares of numbers.
 tables - prints multiplication tables.
